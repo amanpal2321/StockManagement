@@ -1,2 +1,2 @@
 # StockManagement System Project 
-this is my first repository on GitHub 
+this is my first repository on GitHub.
